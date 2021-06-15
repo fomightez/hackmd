@@ -33,4 +33,13 @@ In terminal you can get to a python console by typing `ipython`
 Up and down arrows work to scroll back among previous command in terminal and both types of consoles.
 
 We showed type-casting a bit by casting a float to an integer.
+
+```python
+cat = 2
+dog = 4.0
+type(cat*dog)
+s = int(cat*dog)
+type(s)
+```
+
 To check type, use `type()` with the object to query in the parantheses.
