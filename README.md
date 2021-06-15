@@ -1,4 +1,4 @@
-# hackmd
+# hackmds for meetings
 
 
 - [First night's session](https://hackmd.io/DSfHwqG1RueefIYNOJfJGg?view)
