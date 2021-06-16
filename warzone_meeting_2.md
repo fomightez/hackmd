@@ -22,6 +22,10 @@ You can use Sed and Awk as command-line utilities for quickly fixing text or rea
     - [this code](https://gist.github.com/fomightez/b012e51ebef6ec58c1515df3ee0c850a) won't work in a fresh jupyter kernel without the `import time` line
     - [documentation for time module as part of Python 3](https://docs.python.org/3/library/time.html?highlight=time#module-time)
 
+- [The Python Package Index](https://pypi.org/) - indexes all the packages you can install with the pip package management system.
+
+- In Jupyter use, `%pip install <package_name>` whenever installing a module that isn't in core or Python's standard libraries.
+
 - [BLACK - The uncompromising code formatter](https://black.readthedocs.io/en/stable/) - for automatic 'Pythonic' code formatting and handling of whitespace
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
