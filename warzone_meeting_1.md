@@ -1,4 +1,4 @@
-# Warzone Pyhtonistas: First meeting
+# Warzone Pythonistas: First meeting
 
 
 ## Coordinating
