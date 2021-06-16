@@ -29,4 +29,4 @@ You can use Sed and Awk as command-line utilities for quickly fixing text or rea
 - [BLACK - The uncompromising code formatter](https://black.readthedocs.io/en/stable/) - for automatic 'Pythonic' code formatting and handling of whitespace
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
-- https://pymotw.com/2/tabnanny/ for fixing mixed spaces and tab so code will run
+- [Tabnanny](https://pymotw.com/2/tabnanny/) for fixing mixed spaces and tab so code will run
