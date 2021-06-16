@@ -1,4 +1,4 @@
-# Warzone Pyhtonistas: Second meeting
+# Warzone Pythonistas: Second meeting
 
 ## first order of business & preliminaries
 
