@@ -20,9 +20,10 @@ https://github.com/firasm/RTC_test
 - slices
 - touched on concepts of immutability
 - touched on `assert`
-- BAsics of function writing
 - DRY "Do not repeat yourself" ===> concept of 'modularity'
-- Start small & KISS - "Keep it simple, stupid."
+- BAsics of function writing
+    - add a doc-string to document for yourself and others
+    - Start small, with a stub, & KISS - "Keep it simple, stupid."
 
 #### Early example function
 ```python
