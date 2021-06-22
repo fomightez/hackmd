@@ -44,11 +44,14 @@ print(d)
 
 
 #### Evolved example function
+
+Remove hard-coded letters and have those be provided when calling the function
+
 ```python
 def distance(s,init_char,end_char):   
     '''
     Holden's distance function
-    Takes a string
+    Takes a string, and two letters to find the distance between.
     
     returns: integer distance between provided characters
     '''
