@@ -15,8 +15,11 @@ https://github.com/firasm/RTC_test
 - pastebin
 - fetching markdown and scripts from Github into Binder sessions
 - `%%bash` cell magic and bash's `echo` command (equivalent to Python's `print`)
-- local variables in functions
-- Intermediate: returning more than one variable from a function - see code examples below
+- expanding coverage of `Functions`
+    - local scope for variables solely inside functions
+    - best practice is to pass variables that will change in and out of a function explicitly
+    - functions can use global variables if not changed and so in that case you **can get away without** passing into the function
+    - Intermediate: returning more than one variable from a function - see code examples below
 - IPython and Jupyter commands to query namespace:
     - who
     - whos
