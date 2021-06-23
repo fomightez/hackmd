@@ -37,7 +37,7 @@ def distance(s,init_char,end_char):
     '''
     v = 609
     #print(v)
-    answer = a.index(end_char) - a.index(init_char)
+    answer = s.index(end_char) - s.index(init_char)
     return answer, v
 
 
