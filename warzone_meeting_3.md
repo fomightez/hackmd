@@ -34,7 +34,7 @@ def distance(s):
     
     returns: integer distance between a and g
     '''
-    answer = a.index("a") - a.index("g")
+    answer = s.index("a") - s.index("g")
     return answer
 
 
@@ -56,7 +56,7 @@ def distance(s,init_char,end_char):
     
     returns: integer distance between provided characters
     '''
-    answer = a.index(end_char) - a.index(init_char)
+    answer = s.index(end_char) - s.index(init_char)
     return answer
 
 
