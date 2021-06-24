@@ -20,3 +20,74 @@ Preliminaries:
 
 
 ## Main Meeting Content
+- arguments vs. parameters in relation to functions 
+
+- loops
+- iterating
+- range()
+
+```python=
+for i in range(1,10):
+    print(i)
+
+for i in range(10):
+    print(i)
+
+for i in range(1,10+1):
+    print(i)
+    
+for i in range(10,1-1,-2):
+    print(i)
+    
+for i in range(100,90-1,-2):
+    print(i)
+    
+#for x in ITERATOR: <---- pseudocode model of `for` loop- you can loop on any iterable
+```
+
+- break and continue
+
+- Loops and sets - some collecetions that are iterable
+
+```python
+#for x in ITERATOR: <---- pseudocode model of `for` loop- you can loop on any iterable
+
+l = [1,3,4,66,66,66,99,99,100,101]
+
+
+l[3] =909
+
+len(l)
+
+a = set(l)
+
+len(a)
+
+type(a)
+
+d = {3,33}
+
+a.union(d)
+
+a.intersection(d)
+
+b = list(a)
+
+
+type(b)
+
+kitchen_sink_list = [1,"abcsd",3.4,"g"] # YOU CAN PUT ANYTHING TOGETHER IN A LIST!
+
+```
+- enumerate()
+
+```python
+for indx,v in enumerate(l):
+    print(indx, v)
+```
+
+- HOMEWORK: Think about how to refactor `distance` function to use enumerate
+
+
+
+
