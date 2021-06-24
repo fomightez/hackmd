@@ -34,7 +34,7 @@ def distance(s):
     
     returns: integer distance between a and g
     '''
-    answer = s.index("a") - s.index("g")
+    answer = s.index("g") - s.index("a")
     return answer
 
 
