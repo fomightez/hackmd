@@ -30,3 +30,5 @@ You can use Sed and Awk as command-line utilities for quickly fixing text or rea
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 - [Tabnanny](https://pymotw.com/2/tabnanny/) for fixing mixed spaces and tab so code will run
+
+- git and 'software version control' concept, in general
