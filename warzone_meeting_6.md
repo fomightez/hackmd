@@ -10,7 +10,7 @@ https://github.com/firasm/RTC_test
 
 ## Main Meeting Content
 
-- code folding
+- code folding - Jupyter has it like your favorite text editor
 
 - Python actively evolves. Example from a recent 'Python Enhancement Proposal':  
     Python 3 adds match statement which is like a switch statement!!!!
