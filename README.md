@@ -8,3 +8,8 @@
 - [Fifth night's session](https://hackmd.io/h9Wcvk7lSGmTI-WEcXBoaA?view)
 - [Sixth night's session](https://hackmd.io/EToSG54NRK2y06uP6VjYiQ?view) Monday June 28
 - COMING SOON: [Seventh night's session](https://hackmd.io/yh21NLLlQQGp5qDVemIEHw?view)
+
+
+Ideas for longer term projects goals:
+- collecting data via an API or webscraping and put together into a useful form. 
+  - example: collect Warzone data and make a monthly report
