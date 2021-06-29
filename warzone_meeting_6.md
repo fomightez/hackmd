@@ -7,14 +7,17 @@ launch your own session at:
 https://github.com/firasm/RTC_test
 
 
-Preliminaries:
-
-- ??? 
-
 
 ## Main Meeting Content
 
 - code folding
+
+- Python actively evolves. Example from a recent 'Python Enhancement Proposal':  
+    Python 3 adds match statement which is like a switch statement!!!!
+    
+    >"The match statement that will debut in Python 3.10 looks really interesting; there's a nice description & tutorial here: https://python.org/dev/peps/pep-0636/
+    It's superficially like a switch statement in C, but much more powerful.
+    https://www.python.org/dev/peps/pep-0636/" - [SOURCE Jake VanderPlas's Twitter post](https://twitter.com/jakevdp/status/1359563188870631427)   February 2021
 
 - checking Python version
 
