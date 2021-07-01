@@ -18,6 +18,7 @@ Preliminaries:
 - GOAL: refactor the distance function from the third and fourth sessions to use enumerate and not `.index()` method.
 
 
+----
 
 - enumerate review
 
@@ -43,6 +44,8 @@ for indx,v in enumerate(l2):
 
 ```
 
+----
+
 **Original version of Holden's function**
 
 ```
@@ -64,6 +67,8 @@ d2 = distance(b, "h", "g")
 print(d)
 print(d2)
 ```
+
+**Note**: The variable `answer` should be defined as `answer = abs(s.index(end_char) - s.index(init_char))` here because we actually care about the magnitude and not the actual actual direction between the two letters. This oversight is being noted here, but not fixed yet because actually while testing the different implementations and variations because leaving out the step of going to the absolute value will actually highlight more easily similarity and differences with different results for learning purposes. **Calculating the absolute value belongs back in any 'final' version of this function.**
 
 **Original version of Holden's function with alternative input**
 
@@ -276,6 +281,7 @@ print(d)
 print(d2)
 ```
 
+------
 
 ### Try and except
 
