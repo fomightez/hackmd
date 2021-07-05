@@ -8,7 +8,8 @@
 - [Fifth night's session](https://hackmd.io/h9Wcvk7lSGmTI-WEcXBoaA?view)
 - [Sixth night's session](https://hackmd.io/EToSG54NRK2y06uP6VjYiQ?view) Monday June 28
 - [Seventh night's session](https://hackmd.io/yh21NLLlQQGp5qDVemIEHw?view) Wednesday June 30
-- COMING SOON: [Eighth night's session](https://hackmd.io/v7qTn7lTTLm447BfnWNbGg?view)
+- [Eighth night's session](https://hackmd.io/v7qTn7lTTLm447BfnWNbGg?view) Monday July 5
+- COMING SOON: [Ninth night's session](https://hackmd.io/xxxxxx?view)
 
 
 Ideas for longer term projects goals:
